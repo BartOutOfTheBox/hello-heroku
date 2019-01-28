@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+/angularapp
 
 # dependencies
 /node_modules
@@ -28,6 +29,9 @@ speed-measure-plugin.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+
+# IDE - Visual Studio
+.vs/*
 
 # misc
 /.sass-cache
